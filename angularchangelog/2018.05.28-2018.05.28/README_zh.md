@@ -8,7 +8,16 @@
 
 #### 2. 编辑器模板多行文本输入框HTML文件
 
+>功能：表单对象动态绑定
 >代码：![Alt text](https://github.com/zcdtk/IBizsysTemplateChangeLog/blob/master/angularchangelog/2018.05.28-2018.05.28/img/textarea.png) <br/>
 
+#### 3. 编辑器模板单选项列表HTML文件
 
-#### 3. 
+>功能：代码异常修改 <br/>
+>代码：![Alt text](https://github.com/zcdtk/IBizsysTemplateChangeLog/blob/master/angularchangelog/2018.05.28-2018.05.28/img/radiogroup.png) <br/>
+
+
+#### 4. 宏文件 EXPVIEW_SHELL_ROUTER
+
+>功能：取消显示导航数据信息 <br/>
+>代码：![Alt text](https://github.com/zcdtk/IBizsysTemplateChangeLog/blob/master/angularchangelog/2018.05.28-2018.05.28/img/expshellrouter.png) <br/>
