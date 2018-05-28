@@ -6,3 +6,9 @@
 >代码：![Alt text](https://github.com/zcdtk/IBizsysTemplateChangeLog/blob/master/angularchangelog/2018.05.28-2018.05.28/img/createpp.png) <br/>
 >基础文件地址：https://github.com/zcdtk/JQuery_Translate_Angular.git<br/>
 
+#### 2. 编辑器模板多行文本输入框HTML文件
+
+>代码：![Alt text](https://github.com/zcdtk/IBizsysTemplateChangeLog/blob/master/angularchangelog/2018.05.28-2018.05.28/img/textarea.png) <br/>
+
+
+#### 3. 
