@@ -2,9 +2,9 @@
 
 #### 1. 修改应用代码模板文件 APP_CREATEAPP <br/>
 
-功能：基础文件增加版本号，本次更新版本ANGULAR-5.0.3.0
-代码：
-![Alt text](/img/createpp.png)
+功能：基础文件增加版本号，本次更新版本ANGULAR-5.0.3.0  <br/>
+代码：  <br/>
+![Alt text](img/createpp.png) <br/>
 
    增加基础准备文件版本号，如ANGULAR-5.0.3.0 <br/>
 
