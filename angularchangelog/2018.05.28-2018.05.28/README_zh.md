@@ -4,7 +4,9 @@
 >功能：修改模板编写异常问题   
 >代码：![Alt text](https://github.com/zcdtk/IBizsysTemplateChangeLog/blob/master/angularchangelog/2018.05.28-2018.05.28/img/pickuptree.png) 
 
-#####
+
+*****
+
 ### 2018.05.28 
 
 #### 1. 修改应用代码模板文件 APP_CREATEAPP 
