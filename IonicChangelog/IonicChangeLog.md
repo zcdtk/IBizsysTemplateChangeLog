@@ -5,7 +5,7 @@
 > 修改：删除textItem="customname"属性 <br/>
 > 代码：![Alt text](./img/picker_template.png)
 
-#### 2.新增表单嵌入表格功能：
+#### 2.新增表单嵌入表格功能(平台新增参数，发布器也有更改。需平台先更新，不可单独更新。)：
 ##### (1).修改表单部件(HTML)成员DRUIPART:
 > 修改：全部代码
 > 代码：![Alt text](./img/form_druipart.jpg)
